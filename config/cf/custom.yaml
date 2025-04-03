@@ -102,7 +102,7 @@ fusion_module     : LKA
 mode              : decoupled
 interchannels     : [256, 256, 256]
 pretrain_path     : null
-data_root         : /home/leguillou/Documents/Dataset/Maritime_Action_Detection_Dataset
+data_root         : /home/bmpm/Datasets/Maritim_Action_Detection_Dataset
 img_size          : 224
 clip_length       : 16
 batch_size        : 8
